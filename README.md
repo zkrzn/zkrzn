@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zkrzn
 - 👀 I’m interested in Cloud Computing, Web development, Big data, Artificial intelligence
-- 🌱 I’m currently learning AWS, Machine & Deep Learning
+- 🌱 I’m currently learning AWS, Machine Learning
 - 📫 How to reach me github: @zkrzn  | twitter: @izouaouen 
 
 <!---
