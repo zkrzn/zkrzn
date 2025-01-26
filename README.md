@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm [Your Name], a passionate and versatile developer exploring the intersection of technology and creativity.
+### 👋 Hi there! I'm ZAK, a passionate and versatile developer exploring the intersection of technology and creativity.
 
 🚀 **What I Do**  
 I specialize in **AI, Python, Unity 3D, C#, Java, and Next.js with Tailwind CSS**, leveraging these tools to build innovative solutions. From **machine learning models** to **interactive 3D experiences** and **scalable web applications**, I thrive on turning ideas into reality.  
